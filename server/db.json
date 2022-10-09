@@ -1,0 +1,59 @@
+{ "blogs" : 
+[
+    {
+        "title" : "Using regression testing to produce working software",
+        "thumbnail" : "https://assets.website-files.com/6143afec68f555387049efb3/633ef57a18c3287d40e8dcc8_regression-testing_d584491c0fda5e8e462872a4bce30e84_2000-p-800.jpeg",
+        "avatar" : "https://assets.website-files.com/6143afec68f555387049efb3/6321d8e64909547d72c8196c_goodness_5c9d21c252050db99ffc1b1e406caadd_1000.jpeg",
+        "author" : "Goodness Woke",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+    },
+
+    {
+        "title" : "How to Implement Drag and Drop in React",
+        "thumbnail" : "https://assets.website-files.com/6143afec68f555387049efb3/633d9f681db5679325fbe51d_typing_c6f3c838c692655f483a694320fe6f2d_2000.png",
+        "avatar" : "https://assets.website-files.com/6143afec68f555387049efb3/633f36607647f0194c1af47f_moh_faisal_73df72a1de3c14af961912b7456cf483_1000.jpeg",
+        "author" : "Mohammad Faisal",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+    },
+
+    {
+        "title" : "The Encrypted Media Extension API",
+        "thumbnail" : "https://assets.website-files.com/6143afec68f555387049efb3/633c4fdd8319cbd6dff615ec_streaming_322b9b75d5595e6d988ee3ad06ef31db_2000.jpeg",
+        "avatar" : "https://assets.website-files.com/6143afec68f555387049efb3/630639cf1584e3aa147c6308_paulrosset_2e0f742a220401f20c20d3b4e111b5e2_1000.jpeg",
+        "author" : "Paul Rosset ",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+    },
+
+    {
+        "title" : "Drawing Interactive Shapes With Canvas Element",
+        "thumbnail" : "https://assets.website-files.com/6143afec68f555387049efb3/633b16d7be9bdcc25ba7df61_shapes-w-flutter_504af4c85983cf872f9bfec475e93a35_2000.png",
+        "avatar" : "https://assets.website-files.com/6143afec68f555387049efb3/633b16d7be9bdc605ea7df60_logomatic_4d540486153c50fe7bc6621bbd3656d0_1000.png",
+        "author" : "The Pieces Team",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+    },
+    
+    {
+        "title" : "Feature toggles for Raect Front-ends",
+        "thumbnail" : "https://assets.website-files.com/6143afec68f555387049efb3/63359701d8fadb3a846b3104_arial-photo1_b46eb7942842e4f1587a81cb6820a7af_2000-p-800.jpeg",
+        "avatar" : "https://assets.website-files.com/6143afec68f555387049efb3/630f8ce1c64700723faf9700_gaurav_81650a1c1f720faf557157aa4c2bdc9b_1000.jpeg",
+        "author" : "Gaurav Pasarkar ",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+    },
+
+    {
+        "title" : "Building a Fullsatck App with Next.js and MongoDb",
+        "thumbnail" : "https://assets.website-files.com/6143afec68f555387049efb3/6334669d9a107aadf5ab7e01_next_js-mongoDB_f9c2d1d5314d6b2a1eda2a144085b71e_2000.png",
+        "avatar" : "https://assets.website-files.com/6143afec68f555387049efb3/631f585b56ce8d377c1a720e_melvin_f6d6ce9d3c1958a984f4f11720f627d4_1000.jpeg",
+        "author" : "Melvin Kosisochukwu",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+    },
+
+    {
+        "title" : "A Rundown of Front-End Errors",
+        "thumbnail" : "https://assets.website-files.com/6143afec68f555387049efb3/6331d190a7d17a39396997a2_frontend-errors_bc0b0e477e25a956cbaf7223ab2e2c01_2000.jpeg",
+        "avatar" : "https://assets.website-files.com/6143afec68f555387049efb3/6321d8e64909547d72c8196c_goodness_5c9d21c252050db99ffc1b1e406caadd_1000.jpeg",
+        "author" : "Goodness Woke",
+        "description" : "Creating a file upload component from zero, for Vue apps"
+    }
+]
+}
